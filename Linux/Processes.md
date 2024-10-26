@@ -16,3 +16,8 @@ Other lsof options:
 - -n: not DNS resolving
 
 Other useful tool: `osquery`
+
+#### Get current process
+
+If inside a program, can get current process command line with: 
+`/proc/self/cmdline`

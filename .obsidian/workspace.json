@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols and services/DNS.md",
+                "file": "Linux/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "SSH"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DNS",
+                "query": "netcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,9 +207,13 @@
   },
   "active": "9afebea4d866bd68",
   "lastOpenFiles": [
+    "Linux/Processes.md",
+    "HTB/Penetration Tester/Fundamentals.md",
+    "Bug Bounty/Reconnaissance/Ports.md",
+    "Bug Bounty/Exploits/XSS cross-site scripting.md",
+    "Protocols and services/DNS.md",
     "Bug Bounty/Reconnaissance/Internet explained.md",
     "Network/DNS and BGP.md",
-    "Protocols and services/DNS.md",
     "Windows/AD/Intro and tools.md",
     "Windows/AD/Recon.md",
     "Windows/AD",
@@ -228,16 +231,12 @@
     "Protocols and services/NFS.md",
     "Bug Bounty/Exploits/SQL Injection.md",
     "Bug Bounty/CheckList.md",
-    "Bug Bounty/Reconnaissance/Ports.md",
     "Protocols and services/IPMI.md",
     "HTB/Footprinting labs",
     "Protocols and services/Databases.md",
     "Reverse engineering/Steganography + Image.md",
     "Protocols and services/SMTP.md",
     "Cryptography/TLS.md",
-    "Protocols and services/SNMP.md",
-    "Protocols and services/IMAP - POP3.md",
-    "Linux/Permissions.md",
     "Reverse engineering",
     "Pasted image 20240912073615.png",
     "Pasted image 20240831141239.png",
