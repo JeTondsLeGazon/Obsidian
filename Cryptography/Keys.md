@@ -9,6 +9,7 @@ Suitable for performance and bulk data, easy to use
 ### Examples of use
 - Payment application
 - Hashing
+- TLS (key exchange via asymmetric)
 
 ### Types of Encryption
 
@@ -31,4 +32,5 @@ Uses two different keys for en/de-cryption: public key for encryption and privat
 - Document signature for authenticity
 - Crypto-currency
 - Browsing (SSL)
-- Sharing symmetric key
+- Sharing symmetric key (TLS)
+- ssh

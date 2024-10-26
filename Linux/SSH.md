@@ -11,3 +11,5 @@ If a private key is stolen, another user could use `ssh ... -i stolen_key` to co
 
 We can get the user of a private key by just `base64 -d` the key content and hexdumping it with `xxd`.
 If this is encrypted, we need to decrypt it, or if we have the password, we can change the key password with `ssh-key -p -f <keyfile>`
+
+#### Public vs private

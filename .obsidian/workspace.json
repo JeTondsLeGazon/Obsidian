@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Bug Bounty/Exploits/Windows Specific/winRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "winRM"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "netcat",
+                "query": "evil-win",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,6 +208,13 @@
   },
   "active": "9afebea4d866bd68",
   "lastOpenFiles": [
+    "Protocols and services/RDP.md",
+    "Protocols and services/SMB.md",
+    "Cryptography/TLS.md",
+    "Cryptography/Keys.md",
+    "Cryptography/Hash.md",
+    "Cryptography/SSL.md",
+    "Linux/SSH.md",
     "Linux/Processes.md",
     "HTB/Penetration Tester/Fundamentals.md",
     "Bug Bounty/Reconnaissance/Ports.md",
@@ -221,22 +229,15 @@
     "Hacking tools.md",
     "Bug Bounty/Exploits/Shell injection (command injection).md",
     "HTB/Penetration Tester/Enumeration.md",
-    "Protocols and services/SMB.md",
     "Untitled",
     "Windows",
     "Bug Bounty/Exploits/Windows Specific/winRM.md",
     "HTB/Footprinting labs/medium.md",
     "HTB/Footprinting labs/Easy.md",
-    "Protocols and services/RDP.md",
     "Protocols and services/NFS.md",
     "Bug Bounty/Exploits/SQL Injection.md",
     "Bug Bounty/CheckList.md",
-    "Protocols and services/IPMI.md",
     "HTB/Footprinting labs",
-    "Protocols and services/Databases.md",
-    "Reverse engineering/Steganography + Image.md",
-    "Protocols and services/SMTP.md",
-    "Cryptography/TLS.md",
     "Reverse engineering",
     "Pasted image 20240912073615.png",
     "Pasted image 20240831141239.png",
