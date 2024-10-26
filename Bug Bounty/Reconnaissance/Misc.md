@@ -1,0 +1,5 @@
+- ffuf = gobuster but may have better options
+- shodan.io = web crawler that stores vulnerability scans (do not need to perform actual scan)
+- SecLists: all lists that are potentially needed
+- `Wappanalyzer`: tool to know what plugins/tools a web app is using (apache version, language, ...)
+- `wpscan`: Wordpress scanner for vulnerability

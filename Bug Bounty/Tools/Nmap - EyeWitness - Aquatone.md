@@ -1,0 +1,2 @@
+- -A vs -SV ???
+- We can run nmaps on many hosts at once, with -iL flag and a scope list. Given the enormous amount of data it can generate, we have tools such as `EyeWitness` or `Aquatone` that can read raw nmap outputs (which is way it's good to save them!!) and generate reports

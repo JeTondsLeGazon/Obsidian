@@ -1,0 +1,5 @@
+- Need a good note taking app (like cherry tree)
+- Highly recommended to use checklist
+- Hackerone: choose unpaid programs first (more recent ones), as big bug bounty hunters want to get paid
+- Ffuf or other dir buster tool: use delay time when bounty hunting betwen requests
+- NO VULNERABILITY SCANNER FOR BUG BOUNTY
