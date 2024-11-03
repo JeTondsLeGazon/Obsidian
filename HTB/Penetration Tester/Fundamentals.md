@@ -51,3 +51,4 @@ On linux, [GTOBins](https://gtfobins.github.io/) gives list of commands that can
 We can check file type with `file` command
 
 After a transfer, can check file md5sum on remote and local to ensure it is valid
+

@@ -25,6 +25,7 @@ This can be leveraged by responding by own IP. The target may then try authentic
 
 To mitigate these MITM attacks, these protocols should be disabled
 
+Moreover, these attacks works when on the subnet directly, not over VPN because these are layer 2 protocols (which do not cross VPN).
 ### DNS records
 
 ![[Pasted image 20240912073615.png]]
