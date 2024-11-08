@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be543c1e992549ac",
+        "id": "327dcc9ab149a7af",
         "type": "tabs",
         "children": [
           {
-            "id": "1d8b8dc67e88df11",
+            "id": "ed55c16f185d21f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Penetration Tester/Active Directory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Active Directory"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snmp",
+                "query": "IMAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,17 +176,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d8b8dc67e88df11",
+  "active": "ed55c16f185d21f5",
   "lastOpenFiles": [
-    "Bug Bounty/Exploits/Windows Specific/Certificate Service.md",
-    "Windows/AD/Recon.md",
-    "Protocols and services/SNMP.md",
-    "Hacking tools.md",
-    "Protocols and services/Databases.md",
-    "Protocols and services/IMAP - POP3.md",
     "HTB/Penetration Tester/Active Directory.md",
     "HTB/Penetration Tester/Fundamentals.md",
     "HTB/Penetration Tester/Enumeration.md",
+    "HTB/Footprinting labs/Easy.md",
+    "HTB/Footprinting labs/Hard.md",
+    "HTB/Footprinting labs/Medium.md",
+    "Protocols and services/IMAP - POP3.md",
+    "Protocols and services/SNMP.md",
+    "Bug Bounty/Exploits/Windows Specific/Certificate Service.md",
+    "Windows/AD/Recon.md",
+    "Hacking tools.md",
+    "Protocols and services/Databases.md",
     "Protocols and services/DNS.md",
     "Bug Bounty/Exploits/Windows Specific/winRM.md",
     "Protocols and services/RDP.md",
@@ -198,10 +204,7 @@
     "Bug Bounty/Exploits/XSS cross-site scripting.md",
     "Bug Bounty/Reconnaissance/Internet explained.md",
     "Network/DNS and BGP.md",
-    "Windows/AD/Intro and tools.md",
     "Windows/AD",
-    "Bug Bounty/Reconnaissance/Commands.md",
-    "Bug Bounty/Exploits/Shell injection (command injection).md",
     "Untitled",
     "Windows",
     "HTB/Footprinting labs",

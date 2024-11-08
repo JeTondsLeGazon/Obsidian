@@ -19,3 +19,12 @@ Then commands listed (all commands should begin with random tag) [here](https://
 
 Works unencrypted -> need TLS/SSL to encrypt 
 
+
+## IMAP CLI
+
+Once connected with `openssl`, we can login with `<tag> LOGIN <username> <password>`, where `<tag>` can be anything (should not even remain the same for all commands)
+
+- List all mailboxes with `<tag> LIST "" *`
+- Select mailbox: `<tag> SELECT <mailbox>`
+- If messages from above command (`<exists>` > 0): `<tag> FETCH <number> (body[])`
+
