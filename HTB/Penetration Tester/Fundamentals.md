@@ -42,7 +42,22 @@ For both Linux (goal: Root) and Windows (administrator/SYSTEM)
 
 On linux, [GTOBins](https://gtfobins.github.io/) gives list of commands that can be abused with sudo access to become root. Same on Windows with [LOLBAS](https://lolbas-project.github.io/#)
 
-
+### Linux
+- home directories
+- OS/kernel versions
+- processes
+- bash histories (`history` command)
+- privileges
+- conf files / passwd/shadow files
+- cron jobs
+- permissions
+- mounted devices/drives (`lsblk` + `lscpu`)
+- available shells
+- routing table: `route` or `netstat -rn`
+- If in domain: `/etc/resolv.conf` + ARP table
+- last logins `lastlog`
+- System calls with `strace`
+- installed packages (`apt list --installed`)
 ### File transfer
 
 - Python http server + curl/wget on remote

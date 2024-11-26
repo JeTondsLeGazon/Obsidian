@@ -15,7 +15,12 @@ Example:
 `chmod 741` to give: all to owner, read only to group and execute only to all other users 
 `chmod +s /bin/bash` to give **owner's** permission instead of user's (in this case, any user executing `bash -p` would have root privileges as `/bin/bash` has been (usually) created by root)
 
+##### Set UID/GIT + sticky bit
+File/directory has yet another permission which can be either ., S or s
 
+`chmod 4xxx myfile` to give file setUID bit: execute file as OWNER and not USER
+`chmod 2xxx myfile` for same but with group
+Finally, sticky bit can be used to remove deleltion permission on a directory
 ## Users
 
 Can edit /etc/passwd with plaintext hashed password to add another user with root privileges:

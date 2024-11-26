@@ -11,3 +11,13 @@ Used to prevent hash collisions (same password = same hash)
 
 ### Peppering
 Used to prevent brute force by adding yet another value, but not stored in the database
+
+
+### Examples
+
+Salted MD5:                 `$1$...`
+SHA-256:                      `$5$...`
+SHA-512:                      `$6$...`
+Bcrypt:                          `$2a$...`
+Scrypt:                          `$7$...`
+Argon2:                        `$argon2i$...`
