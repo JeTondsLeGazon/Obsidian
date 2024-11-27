@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "bolder_bold"
+    "bolder_bold",
+    "titles_size"
   ],
   "cssTheme": "Blue Topaz"
 }
