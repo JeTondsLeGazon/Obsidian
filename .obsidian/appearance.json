@@ -2,7 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "bolder_bold",
-    "titles_size"
+    "titles_size",
+    "color_header"
   ],
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "theme": "system"
 }

@@ -16,7 +16,7 @@
 - **wappalzyer** (wappy or wappybird): website reconnaissance tool for platform, libraries and frameworks
 - **nikto**: web server analyzer for banner grabing and HTTP header checks. Will also look for **indexing** and some basic endpoints
 - **ffuf** | **dirb** | **gobuster**: directory/subdirectory/subdomain bursting
-- **gitjacker**: enable to download target folder on web server with a .git file
+- **gitjacker**/**gitdumper**: enable to download target folder on web server with a .git file
 - **nuclei**: vulnerability scanner written in go
 - **whatweb**: web scanner
 # Exploit
