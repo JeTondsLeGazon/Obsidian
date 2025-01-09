@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Penetration Tester/Fundamentals.md",
+                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "Containers"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "echo ",
+                "query": "kerberos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,12 +178,16 @@
   },
   "active": "46eacfbc48291c72",
   "lastOpenFiles": [
+    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Containers.md",
+    "Protocols and services/NFS.md",
+    "Ethical Hacking/7. Active Directory/Tools/List.md",
+    "Ethical Hacking/7. Active Directory/Basics.md",
+    "HTB/Penetration Tester/Fundamentals.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Cronjobs.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/File capabilities.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
     "Bug Bounty/Exploits/Windows Specific/Registry.md",
-    "Ethical Hacking/7. Active Directory/Basics.md",
     "Ethical Hacking/9. Windows & Powershell/Powershell Cheatsheet.md",
     "Hacking tools.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Sudo.md",
@@ -205,10 +208,6 @@
     "Ethical Hacking/9. Windows & Powershell",
     "Ethical Hacking/8. Linux",
     "Ethical Hacking/Untitled.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Brute force - Password Spray.md",
-    "Ethical Hacking/7. Active Directory/Pentest/LLMNR & NBT-NS Poisoning.md",
-    "HTB/Penetration Tester/Active Directory.md",
-    "Protocols and services/SMB.md",
     "Ethical Hacking/7. Active Directory/Pentest",
     "Ethical Hacking/7. Active Directory/Tools",
     "Ethical Hacking/1. Introduction/Untitled/Untitled",
