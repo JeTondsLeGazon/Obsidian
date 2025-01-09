@@ -19,7 +19,7 @@ Once we get a shell connection outside ssh/winrm, we cannot use command history 
 
 - python/stty with `import pty; pty.spawn("/bin/bash")`
 - ctrl+z to background netcat connection
-- `stty raw -echo`
+- `stty raw - echo`
 - Bring back netcat command with `fg`
 
 If we want to size parameters as well, use echo $TERM locally and set the same variable remotely, same for stty size

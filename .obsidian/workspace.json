@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
+                "file": "HTB/Penetration Tester/Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privilege Escalation"
+              "title": "Fundamentals"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerber",
+                "query": "echo ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,12 +179,13 @@
   },
   "active": "46eacfbc48291c72",
   "lastOpenFiles": [
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Cronjobs.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/File capabilities.md",
+    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
     "Bug Bounty/Exploits/Windows Specific/Registry.md",
     "Ethical Hacking/7. Active Directory/Basics.md",
     "Ethical Hacking/9. Windows & Powershell/Powershell Cheatsheet.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
     "Hacking tools.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Sudo.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/SSH.md",
@@ -209,7 +210,6 @@
     "HTB/Penetration Tester/Active Directory.md",
     "Protocols and services/SMB.md",
     "Ethical Hacking/7. Active Directory/Pentest",
-    "HTB/Penetration Tester/Enumeration.md",
     "Ethical Hacking/7. Active Directory/Tools",
     "Ethical Hacking/1. Introduction/Untitled/Untitled",
     "Ethical Hacking/7. Active Directory",
