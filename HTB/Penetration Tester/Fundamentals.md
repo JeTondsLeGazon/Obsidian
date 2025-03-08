@@ -21,6 +21,7 @@ Once we get a shell connection outside ssh/winrm, we cannot use command history 
 - ctrl+z to background netcat connection
 - `stty raw - echo`
 - Bring back netcat command with `fg`
+- optionally: set `TERM=xterm-256`(color) 
 
 If we want to size parameters as well, use echo $TERM locally and set the same variable remotely, same for stty size
 

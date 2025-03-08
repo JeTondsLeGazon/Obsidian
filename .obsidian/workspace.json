@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Tmux.md",
+                "file": "Ethical Hacking/4. Exploitation/Web sites/XSS cross-site scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tmux"
+              "title": "XSS cross-site scripting"
+            }
+          },
+          {
+            "id": "a1d79fcba4af6890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Shared libraries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shared libraries"
+            }
+          },
+          {
+            "id": "4098c703c0138fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processes"
+            }
+          },
+          {
+            "id": "0d0e4c5e1ab9886e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Sudo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sudo"
+            }
+          },
+          {
+            "id": "c290154612138f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Check-list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Check-list"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -40,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmux",
+                "query": "ss ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,35 +234,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d70bdfb87474b5",
+  "active": "c290154612138f1d",
   "lastOpenFiles": [
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Shared libraries.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Sudo.md",
+    "HTB/Penetration Tester/Fundamentals.md",
+    "HTB/Footprinting labs/medium.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Check-list.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Python.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/File capabilities.md",
+    "Polkit.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Processes.md",
+    "Cryptography/Hashcat.md",
+    "Cryptography/Algorithms.md",
+    "Ethical Hacking/4. Exploitation/Untitled",
+    "Ethical Hacking/4. Exploitation/Untitled.md",
+    "Bug Bounty/CheckList.md",
+    "Protocols and services/SNMP.md",
+    "Canva.canvas",
+    "Tools/Metasploit.md",
+    "().md",
+    "Tools",
+    "HTB/Footprinting labs/Hard.md",
+    "Tools/Hacking tools.md",
+    "Protocols and services/Databases.md",
+    "Malware analysis/AV.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Tmux.md",
     "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
     "Protocols and services/NFS.md",
     "InfoSec/Overview.md",
-    "Ethical Hacking/4. Exploitation/Untitled.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Logrotate.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Containers.md",
-    "Ethical Hacking/7. Active Directory/Tools/List.md",
-    "Ethical Hacking/7. Active Directory/Basics.md",
-    "HTB/Penetration Tester/Fundamentals.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Cronjobs.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/File capabilities.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
-    "Bug Bounty/Exploits/Windows Specific/Registry.md",
-    "Ethical Hacking/9. Windows & Powershell/Powershell Cheatsheet.md",
-    "Hacking tools.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Sudo.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/SSH.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Shell.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Processes.md",
     "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux",
-    "Cryptography/Algorithms.md",
-    "Bug Bounty/Escalation/Information source.md",
-    "Ethical Hacking/4. Exploitation/Web sites/XSS cross-site scripting.md",
-    "Ethical Hacking/4. Exploitation/Web sites/XML injection (XXE).md",
-    "Bug Bounty/Exploits/All Types.md",
-    "Ethical Hacking/4. Exploitation/Web sites/Authentication.md",
     "Ethical Hacking/4. Exploitation/Web sites",
     "Ethical Hacking/9. Windows & Powershell",
     "Ethical Hacking/8. Linux",
@@ -212,12 +273,9 @@
     "Ethical Hacking/7. Active Directory/Tools",
     "Ethical Hacking/1. Introduction/Untitled/Untitled",
     "Ethical Hacking/7. Active Directory",
-    "Ethical Hacking/6. Cleaning Tracks",
-    "Ethical Hacking/5. Post-Exploitation",
     "Pasted image 20240912073615.png",
     "Pasted image 20240831141239.png",
     "Pasted image 20240831141205.png",
-    "Canva.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "asdf/Untitled.canvas",
