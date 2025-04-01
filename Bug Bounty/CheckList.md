@@ -57,7 +57,7 @@ Happy hunting !
 ### <a name="Information">Information Gathering</a>
 - [ ] Manually explore the site  
 - [ ] Spider/crawl for missed or hidden content  
-- [ ] Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store  
+- [ ] Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store, .well-known
 - [ ] Check the caches of major search engines for publicly accessible sites  
 - [ ] Check for differences in content based on User Agent (eg, Mobile sites, access as a Search engine Crawler)  
 - [ ] Perform Web Application Fingerprinting  

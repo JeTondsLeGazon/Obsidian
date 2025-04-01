@@ -1,0 +1,3 @@
+- `nikto`: fingerprinting
+- `wafw00f`: WAF fingerprinting
+- `wappy` or `wappalyzer`
