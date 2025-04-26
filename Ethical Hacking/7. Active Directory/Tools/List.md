@@ -40,3 +40,4 @@
 - PingCastle: used for auditing security level of AD
 - Group3r: AD GRO auditing
 - ADRecon
+- netexec
