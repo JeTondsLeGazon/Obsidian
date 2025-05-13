@@ -35,3 +35,15 @@ Kerberos is a network authentication protocol that uses symmetric cryptography t
 5. Received service-specific ticket sent forward to service, which verifies it with its secret key
 
 TGT is usually related to SPN
+
+#### TODO: finish
+
+## LDAP
+Stands for Lightweight Directory Access Protocol, which registers user information accross AD
+
+Used for:
+- user management
+- group management
+- Authentication and Authorization
+- SSO
+- Network Access Control
