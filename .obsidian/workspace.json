@@ -27,79 +27,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/8. File Transfer/Windows.md",
+                "file": "Ethical Hacking/7. Active Directory/Tools/Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows"
+              "title": "Access"
             }
           },
           {
-            "id": "5542a43ca0c15dbe",
+            "id": "d5cb35b8e2b3d87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "Ethical Hacking/7. Active Directory/PE/Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "Checklist"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "c8adc9c9438a5b67",
+        "id": "d0af2b2521b0a022",
         "type": "tabs",
         "children": [
           {
-            "id": "c50771018064b152",
+            "id": "cebe927b111dbe1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/9. Windows & Powershell/Windows and Linux.md",
+                "file": "Ethical Hacking/7. Active Directory/Enumeration/BloodHound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows and Linux"
-            }
-          },
-          {
-            "id": "0eb71824a8e7830e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking/8. File Transfer/Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "8331ebb05e9958b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking/4. Exploitation/Forward ports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forward ports"
+              "title": "BloodHound"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil",
+                "query": "SPN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,38 +226,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5542a43ca0c15dbe",
+  "active": "d5cb35b8e2b3d87c",
   "lastOpenFiles": [
+    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
+    "Ethical Hacking/7. Active Directory/PE/Checklist.md",
+    "Ethical Hacking/7. Active Directory/Enumeration/BloodHound.md",
+    "Ethical Hacking/7. Active Directory/PE/Kerberoasting.md",
+    "Ethical Hacking/7. Active Directory/Basics.md",
+    "Ethical Hacking/7. Active Directory/Tools/Access.md",
+    "Ethical Hacking/7. Active Directory/PE/LLMNR & NBT-NS Poisoning.md",
+    "Ethical Hacking/7. Active Directory/Enumeration/Recon.md",
+    "Ethical Hacking/7. Active Directory/Enumeration/Brute force - Password Spray.md",
+    "Ethical Hacking/7. Active Directory/PE",
+    "Ethical Hacking/7. Active Directory/Enumeration",
+    "Ethical Hacking/7. Active Directory/Tools/List.md",
+    "Ethical Hacking/4. Exploitation/Active Directory/Checklist.md",
+    "NGINX.md",
+    "Ethical Hacking/8. File Transfer/servers",
     "Ethical Hacking/8. File Transfer/Windows.md",
+    "Protocols and services/SMB.md",
+    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Processes.md",
+    "Ethical Hacking/8. File Transfer/Linux.md",
     "General.md",
     "Ethical Hacking/4. Exploitation/Forward ports.md",
-    "Ethical Hacking/8. File Transfer/Linux.md",
     "Ethical Hacking/9. Windows & Powershell/Windows and Linux.md",
     "Ethical Hacking/8. File Transfer",
-    "Ethical Hacking/7. Active Directory/Basics.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Privilege Escalation.md",
-    "Ethical Hacking/4. Exploitation/Active Directory/Checklist.md",
-    "Ethical Hacking/7. Active Directory/Tools/Access.md",
     "Ethical Hacking/4. Exploitation/Active Directory/Password spraying.md",
     "Tools.md",
     "Polkit.md",
     "Privilege.md",
-    "Ethical Hacking/7. Active Directory/Tools/List.md",
     "Ethical Hacking/4. Exploitation/Databases/Neo4j.md",
     "Ethical Hacking/4. Exploitation/Hydra.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Brute force - Password Spray.md",
     "Ethical Hacking/7. Active Directory/kerberos.png",
     "Ethical Hacking/7. Active Directory/kerberos 1.png",
     "Bug Bounty/Escalation/When first connected to target.md",
-    "Python/Pickle.md",
-    "HTB.md",
-    "HTB/Footprinting labs/Easy.md",
-    "Ethical Hacking/7. Active Directory/Pentest/Recon.md",
     "Ethical Hacking/4. Exploitation/Active Directory",
-    "Ethical Hacking/7. Active Directory/Pentest/LLMNR & NBT-NS Poisoning.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Permissions.md",
-    "Protocols and services/NFS.md",
-    "Ethical Hacking/5. Post-Exploitation/Privilege Escalation Linux/Check-list.md",
     "Ethical Hacking/10. Vulnerability Assessment",
     "Ethical Hacking/4. Exploitation/databases",
     "Ethical Hacking/2. Information gathering/Web/certificate.png",
@@ -296,9 +270,6 @@
     "Canva.canvas",
     "Ethical Hacking/2. Information gathering/Web",
     "Ethical Hacking/2. Information gathering",
-    "3.",
-    "Ethical Hacking/4. Exploitation/Untitled",
-    "Tools",
     "Pasted image 20240912073615.png",
     "Pasted image 20240831141239.png",
     "Untitled.canvas",

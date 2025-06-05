@@ -27,3 +27,11 @@ From the target, we need to pass the flag `--insecure` with cURL
 
 - Ruby: `ruby run -ehttpd . -p<port>`
 - PHP: `php -S 0.0.0.0:<port>`
+
+## RDP
+
+### Mount file with RDP
+
+`xfreerdp /v:<ip> /d:<host> /u:<username> /p:<password> /drive:linux,<folder-path>`
+
+Then on the windows machine, go to Network -> tsclient

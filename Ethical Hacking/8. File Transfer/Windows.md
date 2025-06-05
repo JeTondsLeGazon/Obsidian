@@ -84,3 +84,17 @@ dir \\<ip>\DavWWWRoot
 ### FTP
 
 Exaclty similar do download (but use `UploadFile` method)
+
+
+## Powershell session
+Also called winrm
+
+HTTP and HTTPs connections on port 5985 and 5986 respectively.
+Need administrative access and be part of `Remote Managment` group
+
+### From windows to windows
+
+1. Create a session: `$Session = New-PSSession -ComputerName <target>`
+2. Copy a file: `Copy-Item -Path <file> -ToSession $Session -Destination <target-filepath>`
+
+Or copy from: `Copy-Item -Path <target> -Destination <local> -FromSession $Session`

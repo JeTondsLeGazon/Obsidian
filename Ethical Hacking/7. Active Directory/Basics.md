@@ -20,6 +20,9 @@ AD users can therefore have a SPN when they run services, such as MS SQL. But th
 
 Domain users will however always have a User Principal Name.
 
+### Access Control List (ACL)
+
+The ACL holds all permissions for users in AD. Each entry is called Access Control Entry (ACE), meaning that each object has an ACL but can have many ACE
 
 ## Kerberos
 Kerberos is a microsoft AD protocol for authentication that works without ever sending the password through the connection.
